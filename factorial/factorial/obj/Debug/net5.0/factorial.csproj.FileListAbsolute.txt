@@ -14,3 +14,6 @@ C:\Users\asus\Desktop\nastroje\1\task1\factorial\factorial\obj\Debug\net5.0\refi
 C:\Users\asus\Desktop\nastroje\1\task1\factorial\factorial\obj\Debug\net5.0\factorial.pdb
 C:\Users\asus\Desktop\nastroje\1\task1\factorial\factorial\obj\Debug\net5.0\factorial.genruntimeconfig.cache
 C:\Users\asus\Desktop\nastroje\1\task1\factorial\factorial\obj\Debug\net5.0\ref\factorial.dll
+C:\Users\asus\Desktop\nastroje\1\task1\factorial\factorial\bin\Debug\net5.0\Libraries.dll
+C:\Users\asus\Desktop\nastroje\1\task1\factorial\factorial\bin\Debug\net5.0\Libraries.pdb
+C:\Users\asus\Desktop\nastroje\1\task1\factorial\factorial\obj\Debug\net5.0\factorial.csproj.CopyComplete

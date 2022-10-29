@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "factorial/1.0.0": {
+        "dependencies": {
+          "Libraries": "1.0.0"
+        },
         "runtime": {
           "factorial.dll": {}
+        }
+      },
+      "Libraries/1.0.0": {
+        "runtime": {
+          "Libraries.dll": {}
         }
       }
     }
   },
   "libraries": {
     "factorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Libraries/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
